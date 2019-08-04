@@ -1,2 +1,2 @@
-# blog
-Personal blog resources
+# Intro
+This is an repository for my [blog](www.ramlinbird.com).
