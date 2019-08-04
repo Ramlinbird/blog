@@ -1,2 +1,2 @@
 # Intro
-This is an repository for my [blog](www.ramlinbird.com).
+This is an repository for my [blog](https://www.ramlinbird.com/).
